@@ -2,4 +2,4 @@ line 1 local
 line 2 remote
 line 3 IDEA
 line 4 IDEA
-new line from master
+new line from branch_with_conflict
